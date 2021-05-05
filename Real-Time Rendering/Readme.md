@@ -1,4 +1,4 @@
 
 
-## °¡¼ÓÈ­ ¾Ë°í¸®Áò 
-[°ø°£ ÀÚ·á ±¸Á¶] (https://www.notion.so/b7a0c120d7e941fbb2fb31511103aba5)
+## ê°€ì†í™” ì•Œê³ ë¦¬ì¦˜ 
+[ê³µê°„ ìžë£Œ êµ¬ì¡°] (http://www.notion.so/b7a0c120d7e941fbb2fb31511103aba5)
