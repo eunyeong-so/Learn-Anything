@@ -66,11 +66,12 @@ public class Monster : MonoBehaviour
 
         return SpawnPosition;
     }
-     
+
     //To Do: Random speed 
-    public void MovingUp()
+    public virtual void MovingUp()
     {   
         float speed = 0.2f;
         transform.position += Vector3.up * Time.deltaTime * speed;
+
     } 
 }
